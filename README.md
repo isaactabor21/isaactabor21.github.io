@@ -38,4 +38,8 @@ Minor in Business Spanish, University of Virginia (May 2025)
 - Completed semester-long training program on U.S. accounting and tax standards, passing three exams on professional standards of conduct and proper tax calculations, receiving official Internal Revenue Service (IRS) advanced tax preparer certification
 - Filed taxes for around 10 low-income households per year, contributing to around 700 returns filed each year and hundreds of thousands of dollars in direct economic impact to Charlottesville community annually
 
+## Skills
+**Languages:** English (Native), Spanish (Professionally Proficient), French (Proficient)
+**Technical:** Python (numpy, pandas, scikit-learn, seaborn, matplotlib, plotly), Stata, Tableau, SQL, R, RShiny, Jupyter, MS Excel, Git, Github, MongoDB, ArcGIS, Linux/WSL/Ubuntu, JavaScript (basic), AWS (basic),  GCP (basic), BigQuery
+
 
