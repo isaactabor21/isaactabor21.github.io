@@ -3,8 +3,6 @@ layout: default
 title: Resume
 ---
 
-# Resume
-
 ## Education
 M.S., Data Science, University of Virginia (Enrolled Fall 2025)	 			        		
 
