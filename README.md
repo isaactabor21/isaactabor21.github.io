@@ -1,12 +1,12 @@
 
 ## Education
-M.S., Data Science	| University of Virginia (Enrolled Fall 2025)	 			        		
+M.S., Data Science, University of Virginia (Enrolled Fall 2025)	 			        		
 
-B.A., Economics with Distinction | University of Virginia (May 2025)
+B.A., Economics with Distinction, University of Virginia (May 2025)
 
-Minor in Data Science | University of Virginia (May 2025)
+Minor in Data Science, University of Virginia (May 2025)
 
-Minor in Business Spanish | University of Virginia (May 2025)
+Minor in Business Spanish, University of Virginia (May 2025)
 
 
 ## Work Experience
