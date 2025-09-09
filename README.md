@@ -40,6 +40,7 @@ Minor in Business Spanish, University of Virginia (May 2025)
 
 ## Skills
 **Languages:** English (Native), Spanish (Professionally Proficient), French (Proficient)
+
 **Technical:** Python (numpy, pandas, scikit-learn, seaborn, matplotlib, plotly), Stata, Tableau, SQL, R, RShiny, Jupyter, MS Excel, Git, Github, MongoDB, ArcGIS, Linux/WSL/Ubuntu, JavaScript (basic), AWS (basic),  GCP (basic), BigQuery
 
 
