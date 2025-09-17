@@ -6,7 +6,7 @@ title: Projects
 # Projects
 **[Social Listening for Health and Wellness Client](https://github.com/isaactabor21/DS3001-Project), Foundations of Machine Learning (_January 2025 - May 2025)**
 - Extracted, analyzed and visualized social media data using Reddit API and Python to support social listening, sentiment analysis and topic insights for health and wellness client
-- Presented findings to internal teams who expressed desire to share with clients and take advantage of key market discovered
+- Presented findings to internal teams to take advantage of key market discovered
 
 ![Reddit](/assets/img/reddit.png)
 
