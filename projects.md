@@ -43,15 +43,17 @@ These visualizations I made supports JP Morgan’s analysis that [the typical fa
 - Presented business problem, ERD and Relational Schema, database capabilities and queries, and data visualization along with four other students
 ![college](/assets/img/dog.png)
 
-**[The Effects of Working from Home on Labor Productivity], Introduction to Econometrics (_January 2023 - May 2023_)**
+**[The Effects of Working from Home on Labor Productivity](https://docs.google.com/document/d/1mIo-WqYK19XfrHNW0HrebUQyr84FjDQc/edit?usp=sharing&ouid=112182373098613066526&rtpof=true&sd=true) , Introduction to Econometrics (_January 2023 - May 2023_)**
 - Received A on 21-page econometric research paper investigating effects of working from home on labor productivity 
 - Analyzed economic data and evaluated appropriateness of models to run regressions in Stata
 - Prioritized and managed tasks and communicated with team members to coordinate schedules over course of semester
+![econometrics](/assets/img/econometrics.png)
 
 **[Data Analysis of MLB Player Aaron Judge's Statistics](https://github.com/isaactabor21/MLB-Aaron-Judge-Data-Analysis-with-R), Introduction to Data Science with R (_January 2023 - May 2023_)**
 - Received A+ after presenting 10-week long final project with two other team members
 - Cleaned and manipulated data with over 300 observations and 92 variables and analyzed numerical and categorical variables
 - Generated data visualization based on different variables including bar graphs, box plots, scatter plots, and word clouds
 - Predicted outcomes based on K-Nearest Neighbor Classification and using both multiple linear and logistic regression
+![mlb](/assets/img/mlb.png)
 
 Additional group projects include [Exploring Main Topics in Student Course Reviews at Waterloo University](https://github.com/isaactabor21/DS4002-Project-1), [Assessing the Financial Impact of Tornadoes in Minnesota Using Time Series Data](https://github.com/RainaVardhan/DS4002-Project-2), and [Implementing Similar Image Search Across Fashion Images Using CNN-Based Autoencoder](https://github.com/laurenwisniewski/DS4002-Project-3/tree/main), all apart of DS 4002 (_Fall 2024_).
